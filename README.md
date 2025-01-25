@@ -116,7 +116,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ninjaa-aa&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="Achievement Matrix"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahAsif296&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="Achievement Matrix"/>
 </div>
 
 <div align="center">
@@ -150,4 +150,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,19,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
